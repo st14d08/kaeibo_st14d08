@@ -4,7 +4,7 @@
 
 {
    int i, payments[5];
-  
+  	//
     for (i=0; i<6; i++) {
      scanf("%d", &payments[i]);
 }
